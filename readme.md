@@ -11,7 +11,6 @@ Boilerplate setup for React projects.
 - Webpack
 
 ## npm Scripts
----
 
 Production build:
 ```shell
@@ -29,7 +28,6 @@ npm test
 ```
 
 ## Webpack Configs
----
 
 Webpack configurations are separated into three files:
 
@@ -38,7 +36,6 @@ Webpack configurations are separated into three files:
 - webpack.production.config.js
 
 ## Dependencies
----
 
 ### React
 - classnames
